@@ -18,8 +18,6 @@ namespace ProductsManagerAPI.Controllers
 )
         {
             _userManager = userManager;
-
-
         }
 
 
