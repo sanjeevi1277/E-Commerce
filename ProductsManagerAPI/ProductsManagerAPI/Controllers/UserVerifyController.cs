@@ -32,7 +32,7 @@ namespace ProductsManagerAPI.Controllers
             {
                 user.isRoleVerified = true;
             }
-            _userManager.UpdateAsync(user);
+          await  _userManager.UpdateAsync(user);
             return Ok(new Response { Status = "Success", Message = "User created successfully!" });
         }
     }
