@@ -1,0 +1,81 @@
+<div class="container">
+  <!-- Logout Button -->
+  <button class="logout-button" mat-raised-button color="primary" (click)="logout()" *ngIf="islogin">Logout</button>
+
+  <mat-card class="card">
+    <mat-card-header>
+      <mat-card-title class="center-title">Product List</mat-card-title>
+    </mat-card-header>
+    
+    <!-- Add Product Button (Visible for Admin) -->
+    <div class="button-container" *ngIf="isAdmin">
+      <button mat-raised-button color="primary" [routerLink]="['/add-product']">Add Product</button>
+    </div>
+
+    <!-- Search Input -->
+    <mat-form-field appearance="fill">
+      <mat-label>Search by name</mat-label>
+      <input matInput (keyup)="applyFilter($event)">
+    </mat-form-field>
+
+    <!-- Table to display product list with sorting -->
+    <div class="table-container">
+      <table mat-table [dataSource]="dataSource" matSort>
+
+        <!-- ID Column -->
+        <ng-container matColumnDef="productId">
+          <th mat-header-cell *matHeaderCellDef mat-sort-header> ID </th>
+          <td mat-cell *matCellDef="let product"> {{ product.productId }} </td>
+        </ng-container>
+
+        <!-- Name Column -->
+        <ng-container matColumnDef="name">
+          <th mat-header-cell *matHeaderCellDef mat-sort-header> Name </th>
+          <td mat-cell *matCellDef="let product"> {{ product.name }} </td>
+        </ng-container>
+
+        <!-- Description Column -->
+        <ng-container matColumnDef="description">
+          <th mat-header-cell *matHeaderCellDef mat-sort-header> Description </th>
+          <td mat-cell *matCellDef="let product"> {{ product.description }} </td>
+        </ng-container>
+
+        <!-- Price Column -->
+        <ng-container matColumnDef="price">
+          <th mat-header-cell *matHeaderCellDef mat-sort-header> Price </th>
+          <td mat-cell *matCellDef="let product"> {{ product.price | currency:'INR':'symbol':'1.0-2' }} </td>
+        </ng-container>
+
+        <!-- Quantity Column -->
+        <ng-container matColumnDef="quantity">
+          <th mat-header-cell *matHeaderCellDef mat-sort-header> Quantity </th>
+          <td mat-cell *matCellDef="let product"> {{ product.quantity }} </td>
+        </ng-container>
+
+        <!-- Actions Column -->
+        <ng-container matColumnDef="actions">
+          <th mat-header-cell *matHeaderCellDef> Actions </th>
+          <td mat-cell *matCellDef="let product">
+            <button mat-icon-button color="primary" (click)="editProduct(product.productId)">
+              <mat-icon>edit</mat-icon>
+            </button>
+            <button mat-icon-button color="warn" (click)="deleteProduct(product.productId)">
+              <mat-icon>delete</mat-icon>
+            </button>
+          </td>
+        </ng-container>
+
+        <!-- Define columns to display -->
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+      </table>
+    </div>
+    
+    <!-- Paginator for pagination -->
+    <mat-paginator
+      [pageSize]="pageSize"
+      [pageSizeOptions]="pageSizeOptions"
+      (page)="onPageChange($event)"
+    ></mat-paginator>
+  </mat-card>
+</div>

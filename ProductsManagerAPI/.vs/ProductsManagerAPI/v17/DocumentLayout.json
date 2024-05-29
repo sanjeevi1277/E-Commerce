@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\controllers\\userverifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\controllers\\userverifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\auth\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\auth\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\interface\\iemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\interface\\iemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\auth\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\auth\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\auth\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\auth\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\auth\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\auth\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\migrations\\productcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\migrations\\productcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Migrations\\20240528134553_addcolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductsManagerAPI\\Migrations\\20240528134553_addcolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\migrations\\20240526192238_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\migrations\\20240526192238_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\migrations\\20240526192238_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\migrations\\20240526192238_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\productsmanagerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\productsmanagerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\migrations\\20240528134739_addcolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\migrations\\20240528134739_addcolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|c:\\users\\sanjeevi\\downloads\\productsmanagerapi\\productsmanagerapi\\migrations\\20240528134038_addcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D756DF-0577-4021-A44E-71E714AD18BD}|ProductsManagerAPI\\ProductsManagerAPI.csproj|solutionrelative:productsmanagerapi\\migrations\\20240528134038_addcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserVerifyController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Controllers\\UserVerifyController.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Controllers\\UserVerifyController.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Controllers\\UserVerifyController.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Controllers\\UserVerifyController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:17:32.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Services\\EmailService.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Services\\EmailService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:50:32.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Auth\\Register.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Auth\\Register.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Auth\\Register.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Auth\\Register.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:20:57.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Auth\\Login.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Auth\\Login.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Auth\\Login.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Auth\\Login.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:20:53.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\ProductContext.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\ProductContext.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\ProductContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:22:34.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Controllers\\AuthController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:56:25.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Startup.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Startup.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:49:41.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Program.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:49:56.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240528134038_addcolumn.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Migrations\\20240528134038_addcolumn.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Migrations\\20240528134038_addcolumn.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Migrations\\20240528134038_addcolumn.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Migrations\\20240528134038_addcolumn.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:40:38.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Controllers\\ProductsController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:38:58.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Migrations\\ProductContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Migrations\\ProductContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Migrations\\ProductContextModelSnapshot.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Migrations\\ProductContextModelSnapshot.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:34:35.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Auth\\UserRoles.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Auth\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Auth\\UserRoles.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Auth\\UserRoles.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:20:58.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Auth\\Response.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Auth\\Response.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Auth\\Response.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Auth\\Response.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:20:58.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Interface\\IEmail.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Interface\\IEmail.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Interface\\IEmail.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Interface\\IEmail.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:48:48.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Auth\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Auth\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Auth\\ApplicationUser.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Auth\\ApplicationUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:37:21.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240528134553_addcolumns.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Migrations\\20240528134553_addcolumns.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Migrations\\20240528134553_addcolumns.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Migrations\\20240528134553_addcolumns.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Migrations\\20240528134553_addcolumns.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:45:53.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240528134739_addcolumns.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Migrations\\20240528134739_addcolumns.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Migrations\\20240528134739_addcolumns.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Migrations\\20240528134739_addcolumns.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Migrations\\20240528134739_addcolumns.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:47:39.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Controllers\\WeatherForecastController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:48:25.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Models\\Product.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:46:10.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Models\\User.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Models\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:20:18.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240526192238_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Migrations\\20240526192238_InitialMigration.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Migrations\\20240526192238_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Migrations\\20240526192238_InitialMigration.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Migrations\\20240526192238_InitialMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:22:38.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240526192238_InitialMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Migrations\\20240526192238_InitialMigration.Designer.cs",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\Migrations\\20240526192238_InitialMigration.Designer.cs",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\Migrations\\20240526192238_InitialMigration.Designer.cs",
+              "RelativeToolTip": "ProductsManagerAPI\\Migrations\\20240526192238_InitialMigration.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:32:56.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-26T19:19:34.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\appsettings.json",
+              "RelativeToolTip": "ProductsManagerAPI\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T19:21:26.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductsManagerAPI.http",
+              "DocumentMoniker": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\ProductsManagerAPI.http",
+              "RelativeDocumentMoniker": "ProductsManagerAPI\\ProductsManagerAPI.http",
+              "ToolTip": "C:\\Users\\Sanjeevi\\Downloads\\ProductsManagerAPI\\ProductsManagerAPI\\ProductsManagerAPI.http",
+              "RelativeToolTip": "ProductsManagerAPI\\ProductsManagerAPI.http",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-26T19:21:16.491Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+:host {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000000; /* Set the background color of the page */
+  }
+
+.card {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-header {
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .card-title {
+    font-size: 20px;
+  }
+  
+  .card-content {
+    padding: 10px 0;
+  }
+  
+  .card-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .card-actions button {
+    padding: 8px 16px;
+  }
+  
+  /* Style the delete button specifically */
+  .card-actions button.delete-button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+  }
+  
+  .card-actions button.delete-button:hover {
+    background-color: #c82333;
+  }
+  
+  .card-actions button.cancel-button {
+    background-color: #6c757d;
+    color: #fff;
+    border: none;
+  }
+  
+  .card-actions button.cancel-button:hover {
+    background-color: #5a6268;
+  }
+  /* ------------- */
+  .card {
+    max-width: 400px;
+    margin: 20px auto;
+  }
+  
+  .spinner-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+  }
+  .mat-card-content {
+    margin-bottom: 16px;
+  }
+  
+  .mat-card-actions {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
